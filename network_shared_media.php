@@ -466,7 +466,6 @@ class network_shared_media {
 	<?php //media_upload_form( $errors ); ?>
 	
 	<script type="text/javascript">
-	<!--
 	jQuery(function($){
 		var preloaded = $(".media-item.preloaded");
 		if ( preloaded.length > 0 ) {
@@ -474,7 +473,6 @@ class network_shared_media {
 			updateMediaForm();
 		}
 	});
-	-->
 	</script>
 	
 	<div id="media-items">
